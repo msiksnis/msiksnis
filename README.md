@@ -1,6 +1,6 @@
 # Hello, I'm Martins Siksnis! 👋
 
-## Freelance Web Developer & Student at Noroff
+## Web Developer
 
 I specialize in creating sleek, modern websites and admin dashboards primarily using Next.js. I'm passionate about keeping up with the latest technologies and continuously learning to enhance my skills.
 
@@ -10,7 +10,7 @@ I specialize in creating sleek, modern websites and admin dashboards primarily u
 - **TypeScript**: Ensuring type safety and scalable code architecture.
 - **Tailwind CSS**: For rapid and responsive UI design.
 - **Prisma**: Streamlining database management.
-- **MongoDB & PlanetScale**: Efficient and scalable database solutions.
+- **MongoDB & Supabase**: Efficient and scalable database solutions.
 - **Sanity CMS**: For seamless content management.
 
 ### What I'm Focused On
