@@ -1,29 +1,41 @@
-# Hello, I'm Martins Siksnis! 👋
+# Hello, I'm Marty! 👋
 
-## Web Developer
+## Frontend Developer
 
-I specialize in creating sleek, modern websites and admin dashboards primarily using Next.js. I'm passionate about keeping up with the latest technologies and continuously learning to enhance my skills.
+I am a graduate of Bethel School of Technology (2019) and
+Noroff School of Technology and Digital Media (2024).
 
-### Technologies I Love
+I enjoy crafting beautiful, pixel-perfect
+websites and seamless user interfaces.
 
-- **Next.js**: For robust and scalable web applications.
-- **TypeScript**: Ensuring type safety and scalable code architecture.
-- **Tailwind CSS**: For rapid and responsive UI design.
-- **Prisma**: Streamlining database management.
-- **MongoDB & Supabase**: Efficient and scalable database solutions.
-- **Sanity CMS**: For seamless content management.
 
-### What I'm Focused On
+- ### Skills & Tools
 
-🌱 I’m currently honing my skills in full-stack development and exploring new advancements in web technologies.
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
 
-### Let's Connect
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/martins-siksnis/)
-- **Portfolio**: [My Web Portfolio](https://www.devmarty.com/)
-- **Email**: `msiksnis@gmail.com`
 
-Feel free to reach out for collaborations or just a chat about web development and technology trends!
+### GitHub Stats
+
+![Martins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=msiksnis&show_icons=true&theme=radical)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msiksnis&layout=compact&theme=radical)
+
+
+
+---
+> *"Passionate about building great user experiences and constantly learning to stay ahead in web development."*
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/martins-siksnis/) or [Email](mailto:developermarty@gmail.com)!
+
 
 ---
 
